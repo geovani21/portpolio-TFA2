@@ -1,0 +1,237 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container-navbar {
+    background-color: rgb(20, 177, 220);
+    width: 100%;
+    height: 60px;
+}
+
+.ul-navbar {
+    display: flex;
+    height: 80px;
+    justify-content:end;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-size: 15px;
+}
+
+.li-navbar:hover {
+    background-color: black;
+    transition: 0s ease-in-out;
+    transition-delay: 0s;
+    border-radius: 8px;
+}
+.li-navbar:hover {
+    background-color: black;
+    transition: 0s ease-in-out;
+    transition-delay: 0s;
+    border-radius: 8px;
+}
+
+.a-navbar {
+    color: white;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container-conten {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container-conten2 {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.a-contain {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.a-contain2 {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.img-conten2 {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.img-conten3 {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.img-conten4 {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.img-conten5 {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.h2-2 {
+    font-size: 24px;
+    font-size: 40px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.h2-3 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.h2-4 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.h2-5 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.container-conten p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+}
+
+
+.container-conten2 p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+}
+
+.container-footer {
+    height: 10vh;
+    background-color: rgb(20, 177, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    transform: translateY(0rem);
+}
+
+.h1-footer {
+    font-size: 40px;
+    color: white;
+}
+
+.span {
+    color: rgb(0, 0, 0);
+}
+
+.img-conten2 {
+    margin-top: 2rem;
+    margin-right: 50rem;
+    width: 100%;
+    height: 800%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.container-conten2 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 155vh;
+}
+
+.a-contain2 {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    width: 70rem;
+    height: 650px;
+    margin: 1rem;
+} 
+
+.img-conten3{
+    margin-top:-1rem;
+    margin-right: 50rem;
+    width: 100%;
+    height: 90%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.img-conten4{
+    margin-top: -1rem;
+    margin-right: 50rem;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.img-conten5{
+    margin-top: 0rem;
+    margin-right: 50rem;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.h2-2 {
+    margin-top: 5rem;
+}
+
+.h2-3 {
+    margin-top: 5rem;
+}
+
+.h2-4 {
+    margin-top: 5rem;
+}
+
+.h2-5 {
+    margin-top: 5rem;
+}
